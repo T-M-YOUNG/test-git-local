@@ -10,7 +10,7 @@
     git remote -v
 
 ## shorthand
-    git push -u origin master(by defult)
+    git push -u ~~origin master~~(by defult)
 
 ## use git remote set-url <SSH>
     to change the origin 
