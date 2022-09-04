@@ -21,3 +21,8 @@
     3.git commit (Commit Change);
     4.git push (Push Changes);
     5.pull request (if repo is someone else);
+
+## git chaeckout 
+    switch to branch
+
+# changed in the brench
